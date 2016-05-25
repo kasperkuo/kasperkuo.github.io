@@ -1677,9 +1677,23 @@
 		margin-bottom: 0;
 	}
 
+	h3 {
+		letter-spacing: .32em;
+		font-size: 1em;
+		text-transform: uppercase;
+		margin-top: -.7em;
+		margin-bottom: -.7em;
+	}
+
 	header {
 		margin-bottom: 1.5em;
+		letter-spacing: .3em;
+		text-transform: uppercase;
 	}
+
+		header > h2 {
+			font-size: 1.3em;
+		}
 
 		header > p {
 			display: block;
