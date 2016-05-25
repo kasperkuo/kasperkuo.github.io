@@ -1685,6 +1685,10 @@
 		margin-bottom: -.7em;
 	}
 
+	.about-info {
+		text-align:justify;
+	}
+
 	header {
 		margin-bottom: 1.5em;
 		letter-spacing: .3em;
@@ -1951,6 +1955,16 @@
 		padding: 0.8em 2em 0.8em 2em;
 		cursor: pointer;
 		outline: 0;
+	}
+
+	.resume {
+		padding: 0.33em 2em 0.33em 2em;
+		letter-spacing: .15em;
+	}
+
+	input[type="submit"],
+	input[type="reset"] {
+		padding: 0.33em 2em 0.33em 2em;
 	}
 
 		input[type="button"]:hover,
