@@ -1714,6 +1714,10 @@
 			margin-top: -2em;
 		}
 
+		.description {
+			text-align: justify;
+		}
+
 /* Image */
 
 	.image {
