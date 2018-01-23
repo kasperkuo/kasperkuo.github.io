@@ -1720,6 +1720,12 @@
 
 /* Image */
 
+	.skills {
+		color: #31D2B9;
+		letter-spacing: .05em;
+		font-weight: bold;
+	}
+
 	.image {
 		-moz-transition: opacity 0.25s ease-in-out;
 		-webkit-transition: opacity 0.25s ease-in-out;
@@ -2898,6 +2904,7 @@
 			}
 
 		/* List */
+
 
 			ul.actions li {
 				display: block;
